@@ -1,1 +1,1 @@
-# Machine Learning Simple Projects
+# Core Machine Learning Algo Practicals
