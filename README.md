@@ -9,5 +9,7 @@
   - Support Vector Machine(Regression)
   - Naive Bayes
   - K Nearest Neighbour(KNN)
+  - Decision Tree (Classification)
+  - Decision Tree (Regression)
   
 ## **Unsupervised Machine Learning**
