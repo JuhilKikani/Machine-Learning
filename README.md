@@ -13,3 +13,4 @@
   - Decision Tree (Regression)
   
 ## **Unsupervised Machine Learning**
+  - PCA 
