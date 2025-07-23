@@ -11,6 +11,8 @@
   - K Nearest Neighbour(KNN)
   - Decision Tree (Classification)
   - Decision Tree (Regression)
+  - Random Forest (Classification)
+  - Random Forest (Regression)
   
 ## **Unsupervised Machine Learning**
   - PCA 
