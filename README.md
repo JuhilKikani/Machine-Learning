@@ -13,6 +13,13 @@
   - Decision Tree (Regression)
   - Random Forest (Classification)
   - Random Forest (Regression)
+  - Adaboost (Classification)
+  - Adaboost (Regression)
+  - Gradient Boost (Classification)
+  - Gradient Boost (Regression)
+  - XGBoost (Classification)
+  - XGBoost (Regression)
   
 ## **Unsupervised Machine Learning**
-  - PCA 
+  - PCA (Dimensionality Reduction)
+  - K Means Clustering
